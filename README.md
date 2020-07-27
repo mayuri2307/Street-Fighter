@@ -1,5 +1,5 @@
 # Street-Fighter
-PROBLEM:
+<h1>PROBLEM:<h1></b>
 Existing games for visually impaired people are very limited, monotonous and not addictive. Our aim is to make the games addictive for them by incorporating features like facilitating multiplayer option of playing and connecting with others through voice.
 
 PROBLEM DESCRIPTION
