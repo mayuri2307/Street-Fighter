@@ -12,17 +12,16 @@ We aim to make a basic game with an addictive playing environment. The output fr
 <h2>Solution Proposal</h2><br>
 We plan to solve the problem outlined by
 incorporating the following features:
+<ul>
+  <li>Option to play with your friends in real time.</li>
+  <li>Use of binaural audio to stimulate your sense of vision.</li>
+  <li>Option to play game either through gesture or speech recognition.</li>
+  <li>Gestures have been incorporated in a way to make it more interesting in a way explained through the algorithm explained.</li>
+</ul>
 
-Option to play with your friends in real
-time.
 
-Use of binaural audio to stimulate your
-sense of vision.
 
-Option to play game either through
-gesture or speech recognition.
 
-Gestures have been incorporated in a
-way to make it more interesting in a way
-explained through the algorithm
-explained.
+
+
+
